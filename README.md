@@ -29,7 +29,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Mockup & Basic Sketches
 
 ### Front-End
-![](https://github.com/tpwatson/ecommerce-web3/blob/master/sketchedFrontEnd.png?raw=true)
+![](https://github.com/tpwatson/ecommerce-web3/blob/main/sketchedFrontEnd.png?raw=true)
 
 ### Back-end (Work in progress)
-![](https://github.com/tpwatson/ecommerce-web3/blob/master/initialBackendSketch.png?raw=true)
+![](https://github.com/tpwatson/ecommerce-web3/blob/main/initialBackendSketch.png?raw=true)
