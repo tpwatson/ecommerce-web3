@@ -21,7 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
  - To not use vibe coding, some auto-completion for speed though if I've already decided how the code should be.
  - To have the potential to actually earn via USDC, SOL, or Stripe payments.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Mockup & Basic Sketches
 
