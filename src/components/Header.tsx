@@ -7,7 +7,7 @@ export default function Header() {
     // logo, storename, empty space, wallet/stripe, cart icon
     return (
         <header>
-            <div className="flex flex-row justify-between items-center h-16">
+            <div className="flex flex-row justify-between items-center h-16 bg-white/5">
                 <Link href="/" className="ml-4">
                     {/* <Image src="/logo.png" alt="logo" width={100} height={100} /> */}
                     <h1 className="text-lg">PumpStuff.Fun</h1>
