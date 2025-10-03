@@ -1,17 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
-
-First, run the development server:
-
 ```bash
+# clone repo
+git clone https://github.com/tpwatson/ecommerce-web3
+# change to cloned repo directory
+cd ecommerce-web3
+# install dependancies
+npm install
+# run dev version locally
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
