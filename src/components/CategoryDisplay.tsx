@@ -6,7 +6,7 @@ export default function CategoryDisplay() {
     return (
         <section className="min-h-[50vh] max-h-[50vh] mt-8 mb-8">
             <h2>Browse by Category</h2>
-            <div className="grid grid-cols-5 gap-4">
+            <div className="grid grid-cols-3 gap-4 p-4">
                 <Link href="/category/mugs">
                     <div className="bg-white/5 p-4 rounded-md">
                         Mugs
